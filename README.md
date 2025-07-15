@@ -1,4 +1,18 @@
-Here's a comprehensive `README.md` for your Login/Register project using the MERN stack, based on the setup and logs you provided:
+---
+
+## Setting up the Client with Vite
+
+To create the client using Vite, run the following command and follow the prompts:
+
+```bash
+npm init vite
+```
+
+- **Project name:** client  
+- **Select a framework:** React  
+- **Select a variant:** JavaScript  
+
+This will set up a new React project named `client` using JavaScript.
 
 ---
 
