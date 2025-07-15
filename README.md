@@ -1,4 +1,4 @@
----
+
 
 ## Setting up the Client with Vite
 
@@ -14,7 +14,7 @@ npm init vite
 
 This will set up a new React project named `client` using JavaScript.
 
----
+
 
 # Login/Register Using MERN
 
